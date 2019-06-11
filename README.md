@@ -1,15 +1,20 @@
 ### 動機
-身為外地來的大學生，在吃膩了學校餐廳及清夜後，常常不知道要吃甚麼，為 了解決這個困擾，決定寫一款尋找餐廳的 bot，名稱為「EatWhat-Bot」，讓使 用者能透過最簡單方便的方法來找到想吃的食物。
+身為外地來的大學生，在吃膩了學校餐廳及清夜後，常常不知道要吃甚麼，為了解決這個困擾，決定寫一款尋找餐廳的 bot，名稱為「EatWhat-Bot」，讓使用者能透過最簡單方便的方法來找到想吃的食物。
+
 ### 系統摘要
 利用 Bottender 這個 chat bot 的 framework，來開發 Telegram bot。藉由 bot 問特定問題，而使用者回答問題就能夠得到想要的資訊。
+
 ### bot 系統開發環境
 framework : Bottender
 使用的程式語言 : Node.js
-使用的 API : Telegram API、Google Maps API 從 Google Maps API 抓取資料 : Axios 讓內網的 localhost 讓外網的人看見 : ngrok IDE : Visual Studio Code
-bot 網站開發環境
+使用的 API : Telegram API、Google Maps API 
+從 Google Maps API 抓取資料 : Axios 
+讓內網的 localhost 讓外網的人看見 : ngrok 
+IDE : Visual Studio Code
 使用的程式語言 : html、css、js
 IDE : Visual Studio Code
 參考網站 : http://botender.mynmi.net/ 從參考網站下去改程式碼
+
 ### bot 功能說明
 EatWhat-Bot 有三項功能。
 
