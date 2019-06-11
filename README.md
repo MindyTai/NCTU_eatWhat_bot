@@ -2,7 +2,7 @@
 身為外地來的大學生，在吃膩了學校餐廳及清夜後，常常不知道要吃甚麼，為了解決這個困擾，決定寫一款尋找餐廳的 bot，名稱為「EatWhat-Bot」，讓使用者能透過最簡單方便的方法來找到想吃的食物。
 
 ### 系統摘要
-利用 Bottender 這個 chat bot 的 framework，來開發 Telegram bot。藉由 bot 問特定問題，而使用者回答問題就能夠得到想要的資訊。
+利用 Bottender 這個 Chatbot 的 framework，來開發 Telegram bot。藉由 bot 問特定問題，而使用者回答問題就能夠得到想要的資訊。
 
 ### bot 系統開發環境
 framework : Bottender
