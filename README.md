@@ -5,15 +5,15 @@
 利用 Bottender 這個 Chatbot 的 framework，來開發 Telegram bot。藉由 bot 問特定問題，而使用者回答問題就能夠得到想要的資訊。
 
 ### bot 系統開發環境
-framework : Bottender
-使用的程式語言 : Node.js
-使用的 API : Telegram API、Google Maps API 
-從 Google Maps API 抓取資料 : Axios 
-讓內網的 localhost 讓外網的人看見 : ngrok 
-IDE : Visual Studio Code
-使用的程式語言 : html、css、js
-IDE : Visual Studio Code
-參考網站 : http://botender.mynmi.net/ 從參考網站下去改程式碼
+- framework : Bottender
+- 使用的程式語言 : Node.js
+- 使用的 API : Telegram API、Google Maps API 
+- 從 Google Maps API 抓取資料 : Axios 
+- 讓內網的 localhost 讓外網的人看見 : ngrok 
+- IDE : Visual Studio Code
+- 使用的程式語言 : html、css、js
+- IDE : Visual Studio Code
+- 參考網站 : http://botender.mynmi.net/ 從參考網站下去改程式碼
 
 ### bot 功能說明
 EatWhat-Bot 有三項功能。
